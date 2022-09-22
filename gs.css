@@ -62,6 +62,10 @@
     font-size: 15px;
     color: rgb(13, 215, 218);
 }
+.LEILA:hover,.FLETA:hover,.CELIA:hover,.QUEEN:hover,.STREPH:hover,.IOL:hover{
+    box-shadow: 10px 10px 5px black;
+    border: 5px solid rgb(230, 19, 47);
+}
 
 
 table,td,th{

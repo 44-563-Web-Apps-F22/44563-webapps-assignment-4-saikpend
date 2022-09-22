@@ -86,3 +86,25 @@ th{
 tr:nth-child(even) {
     background-color: cornsilk;
   }
+
+  li a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    color: black;
+    padding: 14px 16px;
+  }
+
+
+
+  ul {
+    background-color:bisque;
+    list-style-type: none;
+    overflow: hidden;
+  }
+
+ 
+
+  li {
+    float: left;
+  }

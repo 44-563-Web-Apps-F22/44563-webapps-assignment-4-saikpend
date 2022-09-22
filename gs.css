@@ -52,3 +52,21 @@
     color: rgb(13, 215, 255);
 }
 
+table,td,th{
+    border: 1px solid black;
+    width: 3%;
+    text-align: center;
+    padding: 10px;
+    color:  rgb(41, 150, 62);
+    border-collapse: collapse;
+
+}
+
+th{
+    color:rgba(4, 1, 14, 0.925);
+    background-color: #e12525;
+}
+
+tr:nth-child(even) {
+    background-color: cornsilk;
+  }

@@ -1,0 +1,54 @@
+.speech{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+.song{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+.direction{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+    background-color: aquamarine;
+}
+
+.direction:hover{
+    color: white;
+    background-color: maroon;
+}
+
+.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: black;
+}
+
+.LEILA{
+    font-family:"Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(239, 18, 18);
+}
+
+.FLETA{
+    font-family:"Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(173, 239, 18);
+}
+
+.CELIA{
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+    color: rgb(13, 215, 218);
+}
+
+.QUEEN{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25%;
+    color: rgb(13, 215, 255);
+}
+
